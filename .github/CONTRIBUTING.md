@@ -9,8 +9,8 @@ Here are some pieces of advice and suggestions
    - Make the updates as small and contained as possible, possibly under different Github commits, to facilitate the code review. Don't      hesitate to use the Github code review.
    - Follow the coding style used in the package.
    - If possible try to add a unit test that checks the new code.
-   - If a relevant issue already exists, discuss on the issue and make sure that the admins are okay with your approach
-   - If no relevant issue exists, open a new issue and discuss
+   - If a relevant issue already exists, discuss on the issue and make sure that the admins are okay with your approach.
+   - If no relevant issue exists, open a new issue and discuss.
 
      **Note:** Please proceed with a Pull Request only after the project admins or owners are okay with your approach. It'd be sad if your Pull Request (and your hard work) isn't accepted just because it isn't ideologically compatible.
     
@@ -28,11 +28,11 @@ All the latest *developments, changes, documentation* can be found on our
    - Install **Eclipse** from [this link](http://www.eclipse.org/downloads/).
    - (optional) Install Maven from [this link](http://maven.apache.org), if you need to build the project from the **command-line**.
 
- Have some issue with setting up the project?
+ ## Still Facing an Issue? Don't worry follow the below links
   
    - [How to open the project in Eclipse as a Maven project?](https://stackoverflow.com/a/36242422/143475)
    - [Maven is not able to install the dependencies behind proxy!]()
-   - Not listed here? Kindly search on **Google / Stack Overflow**. If you don't find a solution, feel free to open up a new issue in the issue tracker and maybe subsequently add it here.
+   - If Not listed here? Kindly search on **Google / Stack Overflow**. If you don't find a solution, feel free to open up a new issue in the issue tracker and maybe subsequently add it here.
  
 ## Documentation
 
