@@ -13,7 +13,7 @@ Here are some pieces of advice and suggestions
    - Follow the coding style used in the package.
    - If possible try to add a unit test that checks the new code.
    - If a relevant issue already exists, discuss on the issue and make sure that the admins are okay with your approach.
-   - If no relevant issue exists, open a new issue and discuss.
+   - If no relevant issue exists, steps to [submit an issue](https://github.com/intuit/karate/wiki/How-to-Submit-an-Issue) and discuss.
 
      **Note:** Please proceed with a Pull Request only after the project admins or owners are okay with your approach. It'd be sad if your Pull Request (and your hard work) isn't accepted just because it isn't ideologically compatible.
     
@@ -26,9 +26,9 @@ All the latest *developments, changes, documentation* can be found on our
 
 When contributing to Karate, your merge request is subject to review by admins or owner.When you submit code to Karate, we really want it to get merged, but there will be times when it will not be merged.
 
-When submitting code to Karate, you may feel that your contribution requires the aid of an external library. If your code includes an external library please provide a link to the library, as well as reasons for including it.
+When submitting code, you may feel that your contribution requires the aid of an external library. If your code includes an external library please provide a link to the library, as well as reasons for including it.
 
-Karate receives a lot of community contributions, so if your code has not been reviewed within 3 days of its initial submission feel free to re-mention the appropriate merge request.
+The community receives a lot of contributions, so if your code has not been reviewed within 3 days of its initial submission feel free to re-mention the appropriate merge request.
 
 ## Building and Installing
 
