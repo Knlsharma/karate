@@ -1,3 +1,6 @@
+# I want to contribute!
+If you want to contribute to Karate, [Issues](https://github.com/intuit/karate/issues) are a great place to start.If you're looking for a [Slack channel](https://github.com/intuit/karate/wiki/Support) please consider we favor asynchronous communication over real time communication. Thanks for your contribution!
+
 # Contribution Guidelines
 
 We welcome contributions from everybody, including bug fixes, new features, improvements on the documentation, and general suggestions.:smile:
@@ -18,6 +21,14 @@ Here are some pieces of advice and suggestions
 
 All the latest *developments, changes, documentation* can be found on our
 [README.md](https://github.com/intuit/karate/blob/master/README.md) page.
+
+## Contribution Flow
+
+When contributing to Karate, your merge request is subject to review by admins or owner.When you submit code to Karate, we really want it to get merged, but there will be times when it will not be merged.
+
+When submitting code to Karate, you may feel that your contribution requires the aid of an external library. If your code includes an external library please provide a link to the library, as well as reasons for including it.
+
+Karate receives a lot of community contributions, so if your code has not been reviewed within 3 days of its initial submission feel free to re-mention the appropriate merge request.
 
 ## Building and Installing
 
